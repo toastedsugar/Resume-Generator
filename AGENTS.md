@@ -9,3 +9,4 @@
 - Avoid unnecessary abstractions, architectural changes, speculative flexibility, and premature optimization.
 - Follow existing project patterns when they are clear and compatible with these principles.
 - Do not perform unrelated cleanup, formatting, refactoring, or dependency changes.
+- Do things one at a time.
